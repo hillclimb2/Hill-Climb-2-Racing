@@ -34,7 +34,7 @@ If you're looking to download the latest version of this adrenaline-pumping raci
 
 We update our APKs regularly and post patch notes, tips, and tricks on our blog.
 
-🔗 **Explore more here:** [https://www.yourwebsite.com](https://www.hillclimbtwo.com)
+🔗 **Explore more here:** [https://www.hillclimbtwo.com]
 
 ---
 
